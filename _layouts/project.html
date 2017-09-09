@@ -35,7 +35,7 @@ layout: default
 
           {% if p_url == nil %}{% assign p_url = i.url %}{% endif %}
           {% if p_url %}
-            <a class="project-detail" href="{{ p_url }}">
+            <a class="project-detail" href="{{ site.baseurl }}/{{ p_url }}">
           {% endif %}
             <h3 class="project-headlines">{{ i.name }}</h3>
           {% if p_url %}
@@ -53,7 +53,7 @@ layout: default
           </div>
           <div class="project-footer">
             {% if i.url %}
-              <a href="{{ i.url }}" class="project-link" target="_blank"><i class="fa fa-globe"></i> View</a>
+              <a href="{{ site.baseurl }}/{{ i.url }}" class="project-link" target="_blank"><i class="fa fa-globe"></i> View</a>
             {% endif %}
             <span class="project-timeline">{{ i.date }}</span>
           </div>

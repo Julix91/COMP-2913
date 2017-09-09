@@ -31,7 +31,7 @@ h2, h3 {
 }
 a, a:link, a:active {
   text-decoration: none;
-  color: #3fa757;
+  color: #3db1db;
 }
 a:hover {
   color: #B3B3B3;
@@ -157,16 +157,15 @@ div.col-sm-3 img.profile-avatar {
 .content img {
   max-width: 100%
 }
-
-/* Responsive Conditional */
-@media (min-width: 1024px) {
-  .fixed-condition {
-    position: fixed;
-    max-width: 255px;
-  }
-}
 @media (max-width: 768px) {
   div.col-sm-3 {
     margin-top: 30px;
   }
+}
+
+/* Home */
+.home__logo {
+  display: block;
+  width: 80px;
+  margin: 15px auto 0;
 }

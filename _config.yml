@@ -2,7 +2,7 @@ title: COMP-2913 React & Modern JavaScript
 description: British Columbia Institute of Technology - School of Computing and Academic Studies
 author: Daniel K. Takeuchi
 github: https://daniel-takeuchi.github.io/COMP-2913
-about: Instructor @ BCIT
+about: For any questions, feedback or concern, please email me.
 disqus_shortname: comp2913
 google_analytics: UA-XXXXXXXX-Y
 avatar_url: /static/img/avatar.jpg
@@ -17,18 +17,25 @@ collections:
 
 social:
     - icon: fa-linkedin
-      link: "https://www.linkedin.com/in/summonagus"
+      link: "https://www.linkedin.com/in/kiyohiko/"
 
 urls:
+    - text: Course outline
+      url: /course_outline/
+    - text: Helpful Resources
+      url: /resources/
+    - text: Deliverables
+      url: /deliverables/
     - text: About Me
       url: /about/
-    - text: My Projects
-      url: /projects/
-    - text: XML Feed
-      url: /feed.xml
+    # - text: My Projects
+    #   url: /projects/
+    # - text: XML Feed
+    #   url: /feed.xml
 
 url: "https://daniel-takeuchi.github.io"
 baseurl: "/COMP-2913"
+email: "dtakeuchi@my.bcit.ca"
 paginate: 20
 per_page: 20
 paginate_path: "/page/:num/"
