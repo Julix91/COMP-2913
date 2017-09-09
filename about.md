@@ -5,4 +5,4 @@ permalink: /about/
 ---
 
 Instructor @BCIT
-email: dtakeuchi[at]my.bcit.ca
+email: dtakeuchi@my.bcit.ca

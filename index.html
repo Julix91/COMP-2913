@@ -3,12 +3,13 @@ layout: default
 ---
 
 <div id="home">
+  <img class="home__logo" src="{{ site.baseurl }}/static/img/react_logo.png" />
   <h1>{{ site.title }}</h1>
   <hr />
 
   <ol class="posts">
     {% for post in paginator.posts %}
-      <li><a href="{{ post.url }}">{{ post.title }}</a> &raquo; <i><span>{{ post.date | date_to_string }}</span></i></li>
+      <li><a href="{{ site.baseurl }}/{{ post.url }}">{{ post.title }}</a> &raquo; <i><span>{{ post.date | date_to_string }}</span></i></li>
     {% endfor %}
   </ol>
 
