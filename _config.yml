@@ -20,10 +20,10 @@ social:
       link: "https://www.linkedin.com/in/kiyohiko/"
 
 urls:
-    - text: Course outline
+    - text: Course Outline
       url: /course_outline/
     - text: Helpful Resources
-      url: /resources/
+      url: /help/
     - text: Deliverables
       url: /deliverables/
     - text: About Me
