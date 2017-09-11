@@ -17,21 +17,51 @@ Upon completion successful participants will be able to build fast and feature-r
 - Implement extended React functionality with Redux and React router Libraries.
 - Apply fundamental Software Development concepts to architect your web application.
 
-### Expectations
-TODO
-
-### Classes
-TODO
+### Requirements
+- COMP2015 (Introduction to JavaScript & jQuery) or similar experience with JavaScript
+  - Understanding of data types
+    - String
+    - Number
+    - Boolean
+    - Null
+    - Undefined
+    - Object
+  - Math Operators
+  - Basic knowledge of the DOM (Document Object Model)
+  - Basic knowledge of Objects available in browsers
+    - window
+    - document
+    - style
+  - Basic HTML
+  - Basic CSS
+  - Conditional Statements
+  - Array and Object iteration
+  - Difference between synchronous and asynchronous
+  - Scopes
+  - this keyword
 
 ### Grading
-TODO
+All marks related to labs, assignments, quizzes and tests will be available through [myBCIT](my.bcit.ca). Allow up to 2 weeks after the due date for marks to be uploaded.
 
 ### Submitting Homework
-TODO
+All Labs, Assignments and Exam should be submitted through [Desire2Learn (learn.bcit.ca)](learn.bcit.ca).
+There will be a Dropbox for your course. It can be located at: COMP2015 -> Activities -> Dropbox. Each lab, assignment and exam will have their own directories. Always zip your deliverables, and rename the file in this format: lab1_firstname_lastname.zip
+You would be surprised by how often deliverables are handed in without a name. Marks will be deducted if no name is provided, assuming I can find it’s owner.
+Ideally, please try to submit your deliverables on time. I’ll be as flexible as possible, as I know students also have other important priorities. It would really help me though, if you strive to meet the given deadlines.
+This also goes with submitting the same assignment multiple times. I will only mark the latest one submitted, but I would also appreciate if this is avoided as much as possible.
 
 ### Refund Policy
-TODO
 
-### Contact Office
+| Deadline                              | Refund |
+| :------------------------------------ | :----- |
+| 31 days prior to the class start date | 100%   |
+| Prior to the second class             | 85%    |
+| After the second class                | 0      |
 
-### Hours
+### Contact
+If you have questions, concerns, suggestions or feedback, feel free to reach out through the email address below. I usually check my BCIT Email at night, so I may not be able to respond right away.
+In regards to questions regarding code, I suggest that you try finding the solutions through your own research and findings. Finding problems in code is a very important skill for programmers and you can only get good at it by doing it yourself. If you feel like you are truly blocked, I’d be more than happy to help out then.
+Email: dtakeuchi@my.bcit.ca
+
+### Office Hours
+1 hour prior and after class. Please contact by email otherwise.

@@ -114,7 +114,15 @@ layout: compress
     <div class="container">
       <div class="col-sm-3">
         <div class="fixed-condition">
-          <h1 class="author-name">
+          <ul class="sidebar-nav">
+            <strong>Navigation</strong>
+            <li><a href="{{ site.baseurl }}/">Classes</a></li>
+            {% for i in site.urls %}
+              <li><a class="about" href="{{ site.baseurl }}{{ i.url }}">{{ i.text }}</a></li>
+            {% endfor %}
+          </ul>
+          <hr />
+          <h5 class="author-name">
             {{ site.author }}
             <br />
             <small>
@@ -122,7 +130,7 @@ layout: compress
                 {{ site.email }}
               </a>
             </small>
-          </h1>
+          </h5>
           {% if site.about %}
             <div class="profile-about">
               {{ site.about }}
@@ -136,18 +144,11 @@ layout: compress
               {% endfor %}
             </ul>
           </div>
-          <hr />
-          <ul class="sidebar-nav">
-            <strong>Navigation</strong>
-            <li><a href="{{ site.baseurl }}/">Classes</a></li>
-            {% for i in site.urls %}
-              <li><a class="about" href="{{ site.baseurl }}{{ i.url }}">{{ i.text }}</a></li>
-            {% endfor %}
-          </ul>
         </div>
         <!-- end /.fixed-condition -->
       </div>
       <div class="col-sm-8 col-offset-1 main-layout">
+        <img class="home__logo" src="{{ site.baseurl }}/static/img/react_logo.png" />
         {{ content }}
         <footer>
           &copy; {{ site.author }}
