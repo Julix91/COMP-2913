@@ -21,13 +21,13 @@ social:
 
 urls:
     - text: Course Outline
-      url: /course_outline/
+      url: /course_outline
     - text: Helpful Resources
-      url: /help/
+      url: /help
     - text: Deliverables
-      url: /deliverables/
+      url: /deliverables
     - text: About Me
-      url: /about/
+      url: /about
     # - text: My Projects
     #   url: /projects/
     # - text: XML Feed
