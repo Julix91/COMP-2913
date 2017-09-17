@@ -19,6 +19,13 @@ I've collected some great resources that I highly recommend.
 
 ---
 
+- [ECMAScript 6 Features](http://es6-features.org/#Constants)
+
+  An overview of the new JavaScript features available with ES6. I highly recommend you familiarize yourself
+  with this list.
+
+---
+
 - [Become a Software Developer](http://flip.it/RuTUHE)
 
   Beginner friendly, informational and motivating articles for aspiring programmers.
