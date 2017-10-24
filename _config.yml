@@ -24,9 +24,9 @@ urls:
       url: /course_outline
     - text: Helpful Resources
       url: /help
-    - text: Deliverables
-      url: /deliverables
-    - text: About Me
+    # - text: Deliverables
+      # url: /deliverables
+    - text: About
       url: /about
     # - text: My Projects
     #   url: /projects/

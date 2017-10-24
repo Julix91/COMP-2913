@@ -4,8 +4,12 @@ This challenging, hands-on courses follows on from COMP 1850 and COMP 2015 and i
 The main goal of using React is to create fast and modular applications. Students begin with an introduction to the basic concepts of React and how it works with the browser Document Object Model. Other topics include JavaScript, ES6, JSX, Redux and React Router.
 Instructor led labs and exercises focus on how to structure and develop single-page applications following current industry standards.
 
+---
+
 ### Course Credits
 1.5 credits - 18 hours, 60% Pass
+
+---
 
 ### Course Outcomes
 Upon completion successful participants will be able to build fast and feature-rich web applications using react and modern JavaScript.
@@ -16,6 +20,8 @@ Upon completion successful participants will be able to build fast and feature-r
 - Build feature-rich, interactive user interfaces with modular components.
 - Implement extended React functionality with Redux and React router Libraries.
 - Apply fundamental Software Development concepts to architect your web application.
+
+---
 
 ### Requirements
 - COMP2015 (Introduction to JavaScript & jQuery) or similar experience with JavaScript
@@ -40,8 +46,22 @@ Upon completion successful participants will be able to build fast and feature-r
   - Scopes
   - this keyword
 
+---
+
 ### Grading
 All marks related to labs, assignments, quizzes and tests will be available through [myBCIT](my.bcit.ca). Allow up to 2 weeks after the due date for marks to be uploaded.
+
+---
+
+### Grading Breakdown
+
+| Quiz 1      | | 10%   |
+| Quiz 2      | | 10%   |
+| Project 1   | | 25%   |
+| Project 2   | | 25%   |
+| Final       | | 30%   |
+
+---
 
 ### Submitting Homework
 All Labs, Assignments and Exam should be submitted through [Desire2Learn (learn.bcit.ca)](learn.bcit.ca).
@@ -49,6 +69,8 @@ There will be a Dropbox for your course. It can be located at: COMP2015 -> Activ
 You would be surprised by how often deliverables are handed in without a name. Marks will be deducted if no name is provided, assuming I can find it’s owner.
 Ideally, please try to submit your deliverables on time. I’ll be as flexible as possible, as I know students also have other important priorities. It would really help me though, if you strive to meet the given deadlines.
 This also goes with submitting the same assignment multiple times. I will only mark the latest one submitted, but I would also appreciate if this is avoided as much as possible.
+
+---
 
 ### Refund Policy
 
@@ -58,10 +80,14 @@ This also goes with submitting the same assignment multiple times. I will only m
 | Prior to the second class             | 85%    |
 | After the second class                | 0      |
 
+---
+
 ### Contact
 If you have questions, concerns, suggestions or feedback, feel free to reach out through the email address below. I usually check my BCIT Email at night, so I may not be able to respond right away.
 In regards to questions regarding code, I suggest that you try finding the solutions through your own research and findings. Finding problems in code is a very important skill for programmers and you can only get good at it by doing it yourself. If you feel like you are truly blocked, I’d be more than happy to help out then.
-Email: dtakeuchi@my.bcit.ca
+Email: [dtakeuchi@my.bcit.ca](mailto:dtakeuchi@my.bcit.ca)
+
+---
 
 ### Office Hours
-1 hour prior and after class. Please contact by email otherwise.
+Half an hour prior and after class.
