@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Component Lifecycle"
-date:   2017-10-22 11:30:00 +0700
+date:   2017-10-29 11:30:00 +0700
 categories: [react]
 ---
 
