@@ -22,7 +22,7 @@ I've collected some great resources that I highly recommend.
 - [ECMAScript 6 Features](http://es6-features.org/#Constants)
 
   An overview of the new JavaScript features available with ES6. I highly recommend you familiarize yourself
-  with this list.
+  with this list. Also see a list of the ones I recommend looking into first, [here](/COMP-2913/react/2017/11/01/es6-features.html).
 
 ---
 
