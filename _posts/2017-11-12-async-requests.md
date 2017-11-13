@@ -36,7 +36,9 @@ Use a public API to request a list of all countries, and display them in a React
 
 1. Install your HTTP Request library of choice. I recommend [axios](https://github.com/axios/axios).
 
-1. Make a request to [https://restcountries.eu/rest/v2/all](https://restcountries.eu/rest/v2/all) to fetch for a list of countries in JSON format.
+1. To fetch a list of countries in JSON format, make the following request:
+
+    **GET** *https://restcountries.eu/rest/v2/all*
 
 1. Display a loading spinner while the request is being made.
 
