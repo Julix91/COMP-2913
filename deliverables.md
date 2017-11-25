@@ -67,6 +67,52 @@ GET https://query.yahooapis.com/v1/public/yql?format=json&q=select * from weathe
 
 ---
 
+### Final Project - Your ReactJS Portfolio
+
+Weight: 30%
+
+Due Date: December 6th, 6:00pm SHARP (1 week after last class) - This date is non-negotiable.
+I will have the finals marked by December 13th.
+
+#### Requirements
+
+1. Create a new application. Name it whatever you want.
+
+1. Display a Navigation Bar, which will have a few links to different pages.
+
+  1. Home - path: '/' - Will be the home of your application. Feel free to add a description of your application.
+
+  1. Links to at least 3 projects you've worked on in this class. Examples: rock-paper-scissors, countries list,  weather app, todo list, etc. Clicking on these links should take the user to a url path specific to that project. Note that your projects should still work.
+
+  1. Namespace your components for the projects above. Meaning that, under the components directory in your project codebase, create sub-directories. Examples:
+
+      - src/components/countries-list/
+
+      - src/components/rock-paper-scissors/
+
+      - src/components/weather-app/
+
+  1. I will not look at the code for the sub-directories, as some were already marked, and some were given solutions in class.
+
+1. In this navigation bar, add a new link for "Search"
+
+    - Display a text input and button
+
+    - When user searches for a term, use the API below to search for information on that string
+
+    - Display information on the result. It's not important what you display, But that you display something from the result of your http request.
+
+    - If the user makes a new search, the old results should be replaced.
+
+1. Spend a little time to make your application presentable. This could serve as a portfolio piece!
+
+{% highlight bash %}
+# Search for reactjs
+GET http://api.duckduckgo.com/?q=reactjs&format=json
+{% endhighlight %}
+
+---
+
 #### Marking criteria
 
 You will be marked according to the criteria below:
@@ -96,11 +142,11 @@ Did you submit your files as specified and on time? Is your name on the project?
 
 ---
 
-#### Submitting Project 1
+#### Submitting Projects/Final
 
-In [D2L](http://learn.bcit.ca), look for the React course, and select Dropbox. There should be a folder named "Project 1".
+In [D2L](http://learn.bcit.ca), look for the React course, and select Dropbox. There should be folders for each project.
 Ensure that you **do not include** the node_modules folder in your project when submitting.
-Zip your React app folder and name it project1_{firstName}_{lastName}.
+Zip your React app folder and name it {projectNumber}_{firstName}_{lastName}.
 Eg. project1_daniel_takeuchi.zip
 
 ---
