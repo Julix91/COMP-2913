@@ -100,15 +100,24 @@ I will have the finals marked by December 13th.
 
     - When user searches for a term, use the API below to search for information on that string
 
-    - Display information on the result. It's not important what you display, But that you display something from the result of your http request.
+    - Display information on the result. It's not important what you display, But that you display something from the result of your http request. Tip: Look into the Related Topics property under the response. It has some info that you could display.
+    Example search for "Simpsons Characters":
+      - [https://duckduckgo.com/?q=simpsons+characters&ia=list](https://duckduckgo.com/?q=simpsons+characters&ia=list)
+      
+      - [http://api.duckduckgo.com/?q=simpsons characters&format=json](http://api.duckduckgo.com/?q=simpsons characters&format=json)
+
 
     - If the user makes a new search, the old results should be replaced.
 
 1. Spend a little time to make your application presentable. This could serve as a portfolio piece!
 
 {% highlight bash %}
-# Search for reactjs
+# Search for reactjs (DO NOT USE THIS API ENDPOINT. SEE BELOW)
 GET http://api.duckduckgo.com/?q=reactjs&format=json
+
+# IMPORTANT UPDATE
+# The duck duck go API will block requests made from JavaScript. Use this url instead:
+GET https://damp-fortress-54104.herokuapp.com/search?q=reactjs&format=json
 {% endhighlight %}
 
 ---
