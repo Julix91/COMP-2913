@@ -176,17 +176,17 @@ div.col-sm-3 img.profile-avatar {
   border-radius: 40px;
 }
 
-.table--bordered {
+table {
   border: 1px solid #e6e6e6;
   margin-bottom: 15px;
 }
 
-.table--bordered th, .table--bordered td, .table--bordered caption {
+table th, table td, table caption {
   border: 1px solid #e6e6e6;
   padding: 5px 10px;
 }
 
-.table--bordered caption {
+table caption {
   text-align: left;
   border-bottom: none;
 }

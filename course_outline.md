@@ -6,6 +6,19 @@ Instructor led labs and exercises focus on how to structure and develop single-p
 
 ---
 
+### Course Schedule
+
+| February 20 | Class 1   |                                             |
+| February 27 | Class 2   | Quiz 1, Project 1 instructions              |
+| March 6     | No Class  |                                             |
+| March 13    | Class 3   | Project 1 Due                               |
+| March 20    | Class 4   | Project 2 instructions                      |
+| March 27    | Class 5   | Quiz 2                                      |
+| April 3     | Class 6   | Project 2 due, Take-home Final instructions |
+| April 10    | No Class  | Final due                                   |
+
+---
+
 ### Course Credits
 1.5 credits - 18 hours, 60% Pass
 
@@ -55,11 +68,11 @@ All marks related to labs, assignments, quizzes and tests will be available thro
 
 ### Grading Breakdown
 
-| Quiz 1      | | 10%   |
-| Quiz 2      | | 10%   |
-| Project 1   | | 25%   |
-| Project 2   | | 25%   |
-| Final       | | 30%   |
+| Quiz 1      | 10%   |
+| Quiz 2      | 10%   |
+| Project 1   | 25%   |
+| Project 2   | 25%   |
+| Final       | 30%   |
 
 ---
 
