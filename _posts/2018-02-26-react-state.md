@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "React State"
-date:   2017-10-29 10:00:00 +0700
+date:   2018-02-26 10:00:00 +0700
 categories: [react]
 ---
 
