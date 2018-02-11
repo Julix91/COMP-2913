@@ -6,6 +6,7 @@ about: For any questions, feedback or concern, please email me.
 disqus_shortname: comp2913
 google_analytics: UA-XXXXXXXX-Y
 avatar_url: /static/img/avatar.jpg
+future: false
 
 enableTags: true
 tagarray: []
