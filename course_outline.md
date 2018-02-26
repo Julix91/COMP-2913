@@ -8,14 +8,14 @@ Instructor led labs and exercises focus on how to structure and develop single-p
 
 ### Course Schedule
 
-| February 20 | Class 1   |                                             |
-| February 27 | Class 2   | Quiz 1, Project 1 instructions              |
-| March 6     | No Class  |                                             |
-| March 13    | Class 3   | Project 1 Due                               |
-| March 20    | Class 4   | Project 2 instructions                      |
-| March 27    | Class 5   | Quiz 2                                      |
-| April 3     | Class 6   | Project 2 due, Take-home Final instructions |
-| April 10    | No Class  | Final due                                   |
+| February 20 | Class 1   |                                                 |
+| February 27 | Class 2   | Project 1 instructions                          |
+| March 6     | No Class  |                                                 |
+| March 13    | Class 3   | Quiz 1, Project 1 Due,  Project 2 instructions  |
+| March 20    | Class 4   | Project 2 Due, Project 3 instructions           |
+| March 27    | Class 5   | Quiz 2                                          |
+| April 3     | Class 6   | Project 3 due, Take-home Final instructions     |
+| April 10    | No Class  | Final due                                       |
 
 ---
 
@@ -70,8 +70,9 @@ All marks related to labs, assignments, quizzes and tests will be available thro
 
 | Quiz 1      | 10%   |
 | Quiz 2      | 10%   |
-| Project 1   | 25%   |
-| Project 2   | 25%   |
+| Project 1   | 10%   |
+| Project 2   | 20%   |
+| Project 3   | 20%   |
 | Final       | 30%   |
 
 ---

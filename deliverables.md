@@ -4,9 +4,33 @@ title: Deliverables
 permalink: /deliverables/
 ---
 
-### Project 1 - To Do App
+### Project 1 - Stop Watch
 
-Weight: 25%
+Weight: 10%
+
+Due Date: Beginning of Class 3
+
+#### Requirements
+
+1. Create a new React application, name it "stop-watch".
+
+1. Create a component called "StopWatch" and render it inside of your top level "App" component.
+
+1. Your Stop Watch should render a timer that starts automatically when the View loads.
+
+1. The timer should update the view every second.
+
+1. Display a button labeled "Stop". This button pauses the timer.
+
+1. Display a button labeled "Reset". This button resets the timer to 0.
+
+1. When the timer is 0, the "Stop" button should be re-labeled as "Start".
+
+---
+
+<!-- ### Project 1 - To Do App
+
+Weight: 20%
 
 Due Date: Beginning of Class 5 (November 21st, 2017)
 
@@ -32,7 +56,7 @@ Due Date: Beginning of Class 5 (November 21st, 2017)
 
 ### Project 2 - Weather Application
 
-Weight: 25%
+Weight: 20%
 
 Due Date: Beginning of Class 6 (November 28th, 2017)
 
@@ -103,7 +127,7 @@ I will have the finals marked by December 13th.
     - Display information on the result. It's not important what you display, But that you display something from the result of your http request. Tip: Look into the Related Topics property under the response. It has some info that you could display.
     Example search for "Simpsons Characters":
       - [https://duckduckgo.com/?q=simpsons+characters&ia=list](https://duckduckgo.com/?q=simpsons+characters&ia=list)
-      
+
       - [http://api.duckduckgo.com/?q=simpsons characters&format=json](http://api.duckduckgo.com/?q=simpsons characters&format=json)
 
 
@@ -120,7 +144,7 @@ GET http://api.duckduckgo.com/?q=reactjs&format=json
 GET https://damp-fortress-54104.herokuapp.com/search?q=reactjs&format=json
 {% endhighlight %}
 
----
+--- -->
 
 #### Marking criteria
 
