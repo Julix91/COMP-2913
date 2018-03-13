@@ -28,11 +28,11 @@ Due Date: Beginning of Class 3
 
 ---
 
-<!-- ### Project 1 - To Do App
+### Project 2 - To Do App
 
 Weight: 20%
 
-Due Date: Beginning of Class 5 (November 21st, 2017)
+Due Date: Beginning of Class 4 (March 20th, 2018)
 
 #### Requirements
 
@@ -54,7 +54,7 @@ Due Date: Beginning of Class 5 (November 21st, 2017)
 
 ---
 
-### Project 2 - Weather Application
+<!-- ### Project 2 - Weather Application
 
 Weight: 20%
 
