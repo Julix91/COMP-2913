@@ -32,7 +32,7 @@ Due Date: Beginning of Class 3
 
 Weight: 20%
 
-Due Date: Beginning of Class 4 (March 20th, 2018)
+Due Date: Beginning of Class 5 (March 27th, 2018)
 
 #### Requirements
 
