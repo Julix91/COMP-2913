@@ -54,7 +54,7 @@ Due Date: Beginning of Class 5 (March 27th, 2018)
 
 ---
 
-<!-- ### Project 2 - Weather Application
+### Project 3 - Weather Application
 
 Weight: 20%
 
@@ -70,7 +70,7 @@ Due Date: Beginning of Class 6 (November 28th, 2017)
 
 1. You will need to make http requests to fetch for data. Documentation is here: [YAHOO! Weather API](https://developer.yahoo.com/weather/)
 
-1. If you make the API request above, you will get data for the weather forecast for Vancouver, for the next few days. Display the forecast, with weather information, temperature, etc.
+1. If you make the API request below, you will get data for the weather forecast for Vancouver, for the next few days. Display the forecast, with weather information, temperature, etc.
 
 1. Users of your application should be able to use the dropdown to select different cities, and see weather for them.
 
@@ -91,7 +91,7 @@ GET https://query.yahooapis.com/v1/public/yql?format=json&q=select * from weathe
 
 ---
 
-### Final Project - Your ReactJS Portfolio
+<!-- ### Final Project - Your ReactJS Portfolio
 
 Weight: 30%
 
