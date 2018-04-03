@@ -91,22 +91,22 @@ GET https://query.yahooapis.com/v1/public/yql?format=json&q=select * from weathe
 
 ---
 
-<!-- ### Final Project - Your ReactJS Portfolio
+### Final Project - Your ReactJS Portfolio
 
 Weight: 30%
 
-Due Date: December 6th, 6:00pm SHARP (1 week after last class) - This date is non-negotiable.
-I will have the finals marked by December 13th.
+Due Date: April 10th, 6:00pm SHARP (1 week after last class) - This date is non-negotiable.
+I will have the finals marked by April 17th.
 
 #### Requirements
 
 1. Create a new application. Name it whatever you want.
 
-1. Display a Navigation Bar, which will have a few links to different pages.
+1. Display a Navigation Bar, which will have a few links to different pages. This navigation bar should be visible on any page of your application.
 
-  1. Home - path: '/' - Will be the home of your application. Feel free to add a description of your application.
+  1. Home - path: '/' - Will be the home of your application. Feel free to add a description of your projects and yourself.
 
-  1. Links to at least 3 projects you've worked on in this class. Examples: rock-paper-scissors, countries list,  weather app, todo list, etc. Clicking on these links should take the user to a url path specific to that project. Note that your projects should still work.
+  1. Links to at least 3 projects you've worked on in this class. Examples: rock-paper-scissors, countries list,  weather app, todo list, etc. Clicking on these links should take the user to a url path specific to that project. All these projects should be accessible through an url such as "/projects/your-project-name". Note that your projects should still work.
 
   1. Namespace your components for the projects above. Meaning that, under the components directory in your project codebase, create sub-directories. Examples:
 
@@ -118,33 +118,13 @@ I will have the finals marked by December 13th.
 
   1. I will not look at the code for the sub-directories, as some were already marked, and some were given solutions in class.
 
-1. In this navigation bar, add a new link for "Search"
+  1. Any invalid route should display a proper "Not Found" Page.
 
-    - Display a text input and button
-
-    - When user searches for a term, use the API below to search for information on that string
-
-    - Display information on the result. It's not important what you display, But that you display something from the result of your http request. Tip: Look into the Related Topics property under the response. It has some info that you could display.
-    Example search for "Simpsons Characters":
-      - [https://duckduckgo.com/?q=simpsons+characters&ia=list](https://duckduckgo.com/?q=simpsons+characters&ia=list)
-
-      - [http://api.duckduckgo.com/?q=simpsons characters&format=json](http://api.duckduckgo.com/?q=simpsons characters&format=json)
-
-
-    - If the user makes a new search, the old results should be replaced.
+  1. The navigation bar should display which route is active. See the React Router docs for tips on how to do it.
 
 1. Spend a little time to make your application presentable. This could serve as a portfolio piece!
 
-{% highlight bash %}
-# Search for reactjs (DO NOT USE THIS API ENDPOINT. SEE BELOW)
-GET http://api.duckduckgo.com/?q=reactjs&format=json
-
-# IMPORTANT UPDATE
-# The duck duck go API will block requests made from JavaScript. Use this url instead:
-GET https://damp-fortress-54104.herokuapp.com/search?q=reactjs&format=json
-{% endhighlight %}
-
---- -->
+---
 
 #### Marking criteria
 
