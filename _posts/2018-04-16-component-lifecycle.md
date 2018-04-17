@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Component Lifecycle"
-date:   2018-02-26 11:30:00 +0700
+date:   2018-04-16 11:30:00 +0700
 categories: [react]
 ---
 
@@ -15,20 +15,23 @@ According to the official documentation: [React Component - Component Lifecycle]
 
 #### Available Lifecycle Methods
 
-- [componentWillMount()](https://reactjs.org/docs/react-component.html#componentwillmount)
+- DEPRECATED - [componentWillMount()](https://reactjs.org/docs/react-component.html#componentwillmount)
 
 - [componentWillUnmount()](https://reactjs.org/docs/react-component.html#componentwillunmount)
 
 - [componentDidMount()](https://reactjs.org/docs/react-component.html#componentdidmount)
 
-- [componentWillReceiveProps()](https://reactjs.org/docs/react-component.html#componentwillreceiveprops)
+- DEPRECATED - [componentWillReceiveProps()](https://reactjs.org/docs/react-component.html#componentwillreceiveprops)
 
-- [componentWillUpdate()](https://reactjs.org/docs/react-component.html#componentwillupdate)
+- DEPRECATED - [componentWillUpdate()](https://reactjs.org/docs/react-component.html#componentwillupdate)
 
 - [componentDidUpdate()](https://reactjs.org/docs/react-component.html#componentdidupdate)
 
-
 - [componentDidCatch()](https://reactjs.org/docs/react-component.html#componentdidcatch)
+
+- NEW - [getDerivedStateFromProps()](https://reactjs.org/blog/2018/03/27/update-on-async-rendering.html#new-lifecycle-getderivedstatefromprops)
+
+- NEW - [getSnapshotBeforeUpdate()](https://reactjs.org/blog/2018/03/27/update-on-async-rendering.html#new-lifecycle-getsnapshotbeforeupdate)
 
 Note that it is important to be aware of all of the lifecycle methods, but we will see limited use in class. Some of the methods above are used for more complex software/business requirements, and some are often used for improving an application's performance. Please read through the documentation above. I will also add my own comments on them below, from my experience using React over the past few years.
 
@@ -50,7 +53,11 @@ Note that the comments below are based on the instructor's opinions and experien
 
 - componentDidUpdate() - Also very limited use. It's a good place to manually access the DOM.
 
-- componentDidCatch() - This is a new lifecycle method, and I haven't had the opportunity to use it yet, at the time of writing this. From the official documentation though, this sounds like a very useful method. Perfect for displaying a fallback UI or sending crash errors to a remote service.
+- componentDidCatch() - This is a new lifecycle method. Perfect for displaying a fallback UI or sending crash errors to a remote service.
+
+- getDerivedStateFromProps() - This new lifecycle method is invoked after a component is instantiated as well as when it receives new props. It should be able to cover use cases for the deprecated `componentWillReceiveProps()` function.
+
+- getSnapshotBeforeUpdate() - This new lifecycle method is called right before mutations are made (before DOM is updated). This method is often unneeded, but should be able to cover use cases for the deprecated `componentWillUpdate()`.
 
 ---
 

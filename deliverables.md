@@ -28,7 +28,7 @@ Due Date: Beginning of Class 3
 
 ---
 
-### Project 2 - To Do App
+<!-- ### Project 2 - To Do App
 
 Weight: 20%
 
@@ -122,7 +122,7 @@ I will have the finals marked by April 17th.
 
   1. The navigation bar should display which route is active. See the React Router docs for tips on how to do it.
 
-1. Spend a little time to make your application presentable. This could serve as a portfolio piece!
+1. Spend a little time to make your application presentable. This could serve as a portfolio piece! -->
 
 ---
 
