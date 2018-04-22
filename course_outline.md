@@ -10,9 +10,9 @@ Instructor led labs and exercises focus on how to structure and develop single-p
 
 | April 10 | Class 1 |                                                |
 | April 17 | Class 2 | Project 1 instructions                         |
-| April 24 | Class 3 | Quiz 1, Project 1 Due,  Project 2 instructions |
-| May 1    | Class 4 |                                                |
-| May 8    | Class 5 | Project 2 Due, Project 3 instructions          |
+| April 24 | Class 3 | Project 1 Due,  Project 2 instructions         |
+| May 1    | Class 4 | Quiz 1                                         |
+| May 8    | Class 5 | Quiz 2, Project 2 Due, Project 3 instructions  |
 | May 15   | Class 6 | Project 3 due                                  |
 
 ---
