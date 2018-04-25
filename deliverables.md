@@ -28,6 +28,8 @@ Due Date: Beginning of Class 3
 
 ---
 
+### Project 2 - To Do App
+
 Weight: 20%
 
 Due Date: Beginning of Class 5 (March 27th, 2018)
