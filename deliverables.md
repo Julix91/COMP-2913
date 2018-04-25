@@ -28,8 +28,6 @@ Due Date: Beginning of Class 3
 
 ---
 
-<!-- ### Project 2 - To Do App
-
 Weight: 20%
 
 Due Date: Beginning of Class 5 (March 27th, 2018)
@@ -53,6 +51,8 @@ Due Date: Beginning of Class 5 (March 27th, 2018)
 1. Ensure that you make use of Components intelligently. Think about what should be extracted into a separate component, and do so.
 
 ---
+
+<!--
 
 ### Project 3 - Weather Application
 
