@@ -1,4 +1,4 @@
----
+  ---
 layout: page
 title: Deliverables
 permalink: /deliverables/
@@ -22,6 +22,8 @@ Due Date: Beginning of Class 3
 
 1. Display a button labeled "Stop". This button pauses the timer.
 
+1. When paused, button should display "Start". Clicking on it restarts the timer.
+
 1. Display a button labeled "Reset". This button resets the timer to 0.
 
 1. When the timer is 0, the "Stop" button should be re-labeled as "Start".
@@ -32,7 +34,7 @@ Due Date: Beginning of Class 3
 
 Weight: 30%
 
-Due Date: Beginning of Class 5 (March 27th, 2018)
+Due Date: Beginning of Class 5 (May 8th, 2018)
 
 #### Requirements
 
