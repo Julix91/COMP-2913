@@ -56,13 +56,11 @@ Due Date: Beginning of Class 5 (May 8th, 2018)
 
 ---
 
-<!--
-
 ### Project 3 - Weather Application
 
 Weight: 20%
 
-Due Date: Beginning of Class 6 (November 28th, 2017)
+Due Date: Beginning of Class 6 (May 15th, 2018)
 
 #### Requirements
 
@@ -94,6 +92,8 @@ GET https://query.yahooapis.com/v1/public/yql?format=json&q=select * from weathe
 ```
 
 ---
+
+<!--
 
 ### Final Project - Your ReactJS Portfolio
 
