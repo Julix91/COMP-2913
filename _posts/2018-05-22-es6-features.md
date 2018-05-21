@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Important ES6 Features"
-date:   2018-04-09 21:30:00 +0700
+date:   2018-05-21 21:30:00 +0700
 categories: [react]
 ---
 

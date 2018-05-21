@@ -8,12 +8,12 @@ Instructor led labs and exercises focus on how to structure and develop single-p
 
 ### Course Schedule
 
-| April 10 | Class 1 |                                                |
-| April 17 | Class 2 | Project 1 instructions                         |
-| April 24 | Class 3 | Project 1 Due,  Project 2 instructions         |
-| May 1    | Class 4 | Quiz 1                                         |
-| May 8    | Class 5 | Quiz 2, Project 2 Due, Project 3 instructions  |
-| May 15   | Class 6 | Project 3 due                                  |
+| May 22  | Class 1 |                                                |
+| May 29  | Class 2 | Project 1 instructions                         |
+| June 5  | Class 3 | Project 1 Due,  Project 2 instructions         |
+| June 12 | Class 4 | Quiz 1                                         |
+| June 19 | Class 5 | Project 2 Due, Project 3 instructions          |
+| June 26 | Class 6 | Quiz 2, Project 3 due                          |
 
 ---
 
@@ -77,9 +77,19 @@ All marks related to labs, assignments, quizzes and tests will be available thro
 ### Submitting Homework
 All Labs, Assignments and Exam should be submitted through [Desire2Learn (learn.bcit.ca)](learn.bcit.ca).
 There will be a Dropbox for your course. It can be located at: COMP2015 -> Activities -> Dropbox. Each lab, assignment and exam will have their own directories. Always zip your deliverables, and rename the file in this format: lab1_firstname_lastname.zip
-You would be surprised by how often deliverables are handed in without a name. Marks will be deducted if no name is provided, assuming I can find it’s owner.
+You would be surprised by how often deliverables are handed in without a name. Marks will be deducted if no name is provided.
 Ideally, please try to submit your deliverables on time. I’ll be as flexible as possible, as I know students also have other important priorities. It would really help me though, if you strive to meet the given deadlines.
 This also goes with submitting the same assignment multiple times. I will only mark the latest one submitted, but I would also appreciate if this is avoided as much as possible.
+Searching for help online is okay and sometimes, necessary. We will learn the basic building blocks necessary for each assignment in class, but it is up to you to apply your knowledge and creativity to finding solutions.
+Copy/pasting code from online tutorials is not recommended. You will not learn much by doing it so, and often, they don't fulfill the requirements for the given assignments.
+
+---
+
+### Course Expectations
+- It is expected of students that they have a basic grasp of JavaScript. If rusty, reviewing at home is strongly recommended.
+- This course can be challenging, so please review course material between classes.
+- Quizzes and assignments can be challenging. Just because they are open-book, does not mean they are easy.
+- Questions and discussions in class are always welcome, as long as they stay in topic. There are no dumb questions you can make, but there are "smart questions" that are not in scope of the class level. For those, I'm happy to discuss them outside of class hours.
 
 ---
 

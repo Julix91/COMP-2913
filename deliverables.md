@@ -20,16 +20,16 @@ Due Date: Beginning of Class 3
 
 1. The timer should update the view every second.
 
-1. Display a button labeled "Stop". This button pauses the timer.
+1. Display a button labeled "Pause". This button pauses the timer.
 
 1. When paused, button should display "Start". Clicking on it restarts the timer.
 
-1. Display a button labeled "Reset". This button resets the timer to 0.
+1. Display a button labeled "Reset". This button resets the timer to 0 and stops the timer.
 
 1. When the timer is 0, the "Stop" button should be re-labeled as "Start".
 
 ---
-
+<!--
 ### Project 2 - To Do App
 
 Weight: 30%
