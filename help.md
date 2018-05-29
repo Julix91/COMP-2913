@@ -4,6 +4,8 @@ I've collected some great resources that I highly recommend.
 
 ---
 
+- [COMP-2913 Slack Group](https://join.slack.com/t/react-comp2913/signup) - Use your BCIT email to join. Great place to help your peers, get help, and get to know them in general.
+
 - [You don't know JS](https://github.com/getify/You-Dont-Know-JS)
 
   - [Up & Going](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going)
