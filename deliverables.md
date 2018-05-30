@@ -137,21 +137,27 @@ I will have the finals marked by April 17th.
 You will be marked according to the criteria below:
 
 | Application works as requested | | 50%   |
-| Clean, readable code           | | 25%   |
-| Applied good structure         | | 15%   |
-| Submitted project as requested | | 10%   |
+| Clean, readable code           | | 15%   |
+| Applied good structure         | | 30%   |
+| Submitted project as requested | | 5%   |
 
 ---
 
 #### Application works as requested
 
-Does it meat all functional requirements?
+Does it meet all functional requirements?
 
 ---
 
 #### Clean, readable code
 
-Is the code clean and concise? Are the variables named appropriately? Does the code follow a standard? (eg. proper code line alignment, consistent standards). Is there commented out code that is not being used?
+Is the code clean and concise? Are the variables named appropriately? Does the code follow a standard? (eg. proper code line alignment, consistent standards). Is there commented out code that is not being used? Good code is easy to understand and is not complicated for the sake of being complex.
+
+---
+
+#### Applied good structure
+
+Did you follow good coding and React practices? Did you apply concepts learned in class? Avoid copy/pasting from other websites, sometimes they use older versions of React, other libraries, etc. Feel free to read and learn from them, but only transfer to your code what you understand.
 
 ---
 
