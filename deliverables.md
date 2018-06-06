@@ -31,12 +31,12 @@ Due Date: Beginning of Class 3
 1. Make sure to test it, to avoid bugs. What happens if the Start button is clicked multiple times? How about if the Stop button is clicked multiple times?
 
 ---
-<!--
+
 ### Project 2 - To Do App
 
 Weight: 30%
 
-Due Date: Beginning of Class 5 (May 8th, 2018)
+Due Date: Beginning of Class 5
 
 #### Requirements
 
