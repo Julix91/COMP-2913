@@ -58,6 +58,8 @@ Due Date: Beginning of Class 5
 
 ---
 
+<!--
+
 ### Project 3 - Weather Application
 
 Weight: 20%
