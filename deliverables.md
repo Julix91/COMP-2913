@@ -56,6 +56,18 @@ Due Date: Beginning of Class 5
 
 1. Ensure that you make use of Components intelligently. Think about what should be extracted into a separate component, and do so.
 
+##### Stretch Goals
+
+If you breezed through the exercise above and would like a challenge, here are some ideas. Note that you will not get extra marks for these, they are purely for learning purposes only.
+
+1. Display a timestamp for each added item.
+
+1. Allow ordering the list by timestamp, ascending and descending.
+
+1. Allow for title and description for each to-do item.
+
+1. Allow sorting items by drag and drop. (For more advanced programmers who feel are already comfortable with React)
+
 ---
 
 <!--
