@@ -80,7 +80,7 @@ Due Date: Beginning of Class 6 (June 26th, 2018)
 
 1. Create a new React application, name it "weather-app".
 
-1. This app will display weather information for a select few cities.
+1. This app will display weather forecast information for a select few cities. Note that you should display the forecast for the next few days, not just the current day.
 
 1. Create a dropdown select input with at least 5 different cities. When selecting one of the cities from the dropdown, the view should display the weather information for that specific city.
 
