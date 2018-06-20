@@ -70,8 +70,6 @@ If you breezed through the exercise above and would like a challenge, here are s
 
 ---
 
-<!--
-
 ### Project 3 - Weather Application
 
 Weight: 20%

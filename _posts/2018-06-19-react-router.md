@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "React Router"
-date:   2018-04-30 12:00:00 +0700
+date:   2018-06-19 12:00:00 +0700
 ---
 
 #### What is React Router?
@@ -31,6 +31,8 @@ See an up to date example in the official documentation. We will try a simple im
 
 - Create a Navbar Component. This component will have links to different sections of your application.
 
+- Create a Home View, which will be the landing point of your application.
+
 - Under the Navbar Component, create links to: "Rock Paper Scissors Game" and "Countries List".
 
 - Create components for each of those Views.
@@ -45,6 +47,9 @@ See an up to date example in the official documentation. We will try a simple im
 it should redirect to `countries`.
 
 - Add a Not Found page, which will display if any route not matching your existing Views is accessed.
+
+
+##### Stretch Goals
 
 - Modify your Countries List code so that when you search for a country, it will add
 that view to the browser history. Eg. `/countries/canada`. This should also work if the user first lands on your app through these paths.
