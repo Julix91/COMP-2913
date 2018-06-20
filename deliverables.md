@@ -74,7 +74,7 @@ If you breezed through the exercise above and would like a challenge, here are s
 
 Weight: 20%
 
-Due Date: Beginning of Class 6 (May 15th, 2018)
+Due Date: Beginning of Class 6 (June 26th, 2018)
 
 #### Requirements
 
