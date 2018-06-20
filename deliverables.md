@@ -72,7 +72,7 @@ If you breezed through the exercise above and would like a challenge, here are s
 
 ### Project 3 - Weather Application
 
-Weight: 20%
+Weight: 30%
 
 Due Date: Beginning of Class 6 (June 26th, 2018)
 
