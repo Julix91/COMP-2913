@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "JavaScript Object Immutability"
-date:   2018-04-02 14:00:00 +0700
+date:   2018-06-25 14:00:00 +0700
 categories: [javascrit]
 ---
 
