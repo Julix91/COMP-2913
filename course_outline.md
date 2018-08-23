@@ -8,12 +8,13 @@ Instructor led labs and exercises focus on how to structure and develop single-p
 
 ### Course Schedule
 
-| May 22  | Class 1 |                                                |
-| May 29  | Class 2 | Project 1 instructions                         |
-| June 5  | Class 3 | Project 1 Due,  Project 2 instructions         |
-| June 12 | Class 4 | Quiz 1                                         |
-| June 19 | Class 5 | Project 2 Due, Project 3 instructions          |
-| June 26 | Class 6 | Quiz 2, Project 3 due                          |
+| Sept 11 | Class 1  |                                                |
+| Sept 18 | Class 2  | Project 1 instructions                         |
+| Sept 25 | Class 3  | Project 1 Due,  Project 2 instructions         |
+| Oct 2   | Class 4  | Quiz 1                                         |
+| Oct 9   | Class 5  | Project 2 Due, Project 3 instructions          |
+| Oct 16  | No Class |                                                |
+| Oct 23  | Class 6  | Quiz 2, Project 3 due                          |
 
 ---
 
@@ -76,12 +77,12 @@ All marks related to labs, assignments, quizzes and tests will be available thro
 
 ### Submitting Homework
 All Labs, Assignments and Exam should be submitted through [Desire2Learn (learn.bcit.ca)](learn.bcit.ca).
-There will be a Dropbox for your course. It can be located at: COMP2015 -> Activities -> Dropbox. Each lab, assignment and exam will have their own directories. Always zip your deliverables, and rename the file in this format: lab1_firstname_lastname.zip
+There will be a Dropbox for your course. It can be located at: COMP2913 -> Activities -> Dropbox. Each lab, assignment and exam will have their own directories. Always zip your deliverables, and rename the file in this format: lab1_firstname_lastname.zip
 You would be surprised by how often deliverables are handed in without a name. Marks will be deducted if no name is provided.
-Ideally, please try to submit your deliverables on time. I’ll be as flexible as possible, as I know students also have other important priorities. It would really help me though, if you strive to meet the given deadlines.
+Ideally, please try to submit your deliverables on time. I’ll be as flexible as possible, as I know students also have other important priorities. It would really help me though, if you strive to meet the given deadlines. For Project 3, the due date is non-negotiable, as I also have a deadline to submit final marks to Administration.
 This also goes with submitting the same assignment multiple times. I will only mark the latest one submitted, but I would also appreciate if this is avoided as much as possible.
 Searching for help online is okay and sometimes, necessary. We will learn the basic building blocks necessary for each assignment in class, but it is up to you to apply your knowledge and creativity to finding solutions.
-Copy/pasting code from online tutorials is not recommended. You will not learn much by doing it so, and often, they don't fulfill the requirements for the given assignments.
+Copy/pasting code from online tutorials is not recommended. You will not learn much by doing it so, and often, they don't fully fulfill the requirements for the given assignments.
 
 ---
 

@@ -4,7 +4,10 @@ I've collected some great resources that I highly recommend.
 
 ---
 
-- [COMP-2913 Slack Group](https://join.slack.com/t/react-comp2913/signup) - Use your BCIT email to join. Great place to help your peers, get help, and get to know them in general.
+- [COMP-2913 Slack Group](https://bcit-comp2913.slack.com/signup) - Slack group for the COMP2913 course at BCIT.
+Highly recommended for in-depth discussions, help from me and your peers and to get to know your classmates in general.
+
+---
 
 - [You don't know JS](https://github.com/getify/You-Dont-Know-JS)
 
@@ -25,10 +28,3 @@ I've collected some great resources that I highly recommend.
 
   An overview of the new JavaScript features available with ES6. I highly recommend you familiarize yourself
   with this list. Also see a list of the ones I recommend looking into first, [here](/COMP-2913/react/2017/11/01/es6-features.html).
-
----
-
-- [Become a Software Developer](http://flip.it/RuTUHE)
-
-  Beginner friendly, informational and motivating articles for aspiring programmers.
-  This is a Flipboard magazine that I am curating at the moment. I am aggregating articles that are beginner friendly and could hopefully provide you with some interesting knowledge and insights regarding Software Development. If you have articles that you’d like to share as well, I’d be happy to add them to it!
